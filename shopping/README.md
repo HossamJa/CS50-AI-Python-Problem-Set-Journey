@@ -64,7 +64,7 @@ True Negative Rate: 90.93%
 ## How to Run
 1. Install scikit-learn:
    ```bash
-   pip install scikit-learn
+   pip install -r requirements.txt
    ```
 2. Navigate to the folder:
    ```bash
