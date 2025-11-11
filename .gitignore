@@ -3,3 +3,4 @@ degreesEnv
 __pycache__
 venv
 *.pyc
+winvenv
