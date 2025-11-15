@@ -59,6 +59,8 @@ AI (O) moves to (1, 1):
 
 To see the graphical version, run the program and interact with the Pygame window, where you click to place X’s, and the AI responds with O’s.
 
+### Demo Video of AI in Action 
+[![Watch the Demo Video](https://img.youtube.com/vi/VPs1B-Y-K98/maxresdefault.jpg)](https://youtu.be/VPs1B-Y-K98)
 ## How to Run
 1. Ensure Python 3.12 and Pygame are installed:
    ```bash:disable-run
@@ -81,3 +83,4 @@ To see the graphical version, run the program and interact with the Pygame windo
 
 ## Reflections
 Implementing Tic-Tac-Toe was a fascinating dive into adversarial search. The Minimax algorithm was challenging to grasp at first, but coding it helped me understand how to evaluate game trees and make optimal decisions. Ensuring the board state remained unmodified taught me the importance of deep copying. Playing against my own AI was rewarding, as its unbeatable nature confirmed the algorithm’s correctness. This problem solidified my understanding of recursive algorithms and game theory, setting a strong foundation for more complex AI challenges.
+
