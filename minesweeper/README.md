@@ -33,8 +33,9 @@ The program, implemented in `[minesweeper.py](/minesweeper.py)`, consists of two
 
 The provided `runner.py` handles Pygame GUI, board generation, and AI vs. manual play. The AI prioritizes safe moves, falling back to random only when stuck.
 
-## Demo
+## Demo Video
 Running `python runner.py` launches a graphical Minesweeper game. Click **"AI Move"** to see the AI play:
+[![Watch the Demo Video](https://img.youtube.com/vi/zdQzXiZ2jdk/maxresdefault.jpg)](https://youtu.be/zdQzXiZ2jdk)
 
 **Sample AI Session** (9x9 board):
 ```
@@ -84,3 +85,4 @@ Making random move at (2, 3)
 
 ## Reflections
 Minesweeper was a breakthrough in understanding practical AI. The `Sentence` representation elegantly solved the propositional logic explosion problem—64 variables became manageable sentences. The subset inference was mind-blowing: simple set operations revealed complex deductions automatically. Watching my AI methodically flag mines and chain safe moves felt like true intelligence emerging from code. This problem showed me how AI can scale logical reasoning to real games, bridging theory and practice beautifully.
+
